@@ -50,7 +50,7 @@ params:
   visual:
     image:
       enable: yes
-      file: images/background.jpg
+      file: images/IMGP4123.jpg
       position: center center
     video:
       enable: no
