@@ -21,7 +21,7 @@ params:
         heading: Pages
         link:
           - text: Blog
-            url: [luctus urna]({{< ref "luctus-urna.md" >}})
+            url: {{< ref "luctus-urna.md" >}}
           - text: Email
             url: '#'
           - text: Newsletter
