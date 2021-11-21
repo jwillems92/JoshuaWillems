@@ -16,13 +16,12 @@ params:
   author: Joshua Willems
   description: Split is a centrally-divided layout for a professional online presence
     with a big image or video left with alongside content.
-  favicon: favicon.ico
   links:
     - list1:
         heading: Pages
         link:
           - text: Blog
-            url: 'luctus-in.md'
+            url: [luctus urna]({{< ref "luctus-urna.md" >}})
           - text: Email
             url: '#'
           - text: Newsletter
