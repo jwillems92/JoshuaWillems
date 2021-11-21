@@ -13,7 +13,7 @@ uglyURLs: yes
 googleAnalytics: ''
 copyright: '&copy;2021 Your Name'
 params:
-  author: Jenny Jones
+  author: Joshua Willems
   description: Split is a centrally-divided layout for a professional online presence
     with a big image or video left with alongside content.
   favicon: favicon.ico
