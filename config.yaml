@@ -11,7 +11,7 @@ disableKinds:
 relativeURLs: yes
 uglyURLs: yes
 googleAnalytics: ''
-copyright: '&copy;2021 Your Name'
+copyright: '&copy;2021 Joshua Willems'
 params:
   author: Joshua Willems
   description: Split is a centrally-divided layout for a professional online presence
@@ -19,10 +19,10 @@ params:
   favicon: favicon.ico
   links:
     - list1:
-        heading: Connect
+        heading: Pages
         link:
           - text: Blog
-            url: '#'
+            url: 'luctus-in.md'
           - text: Email
             url: '#'
           - text: Newsletter
@@ -35,15 +35,6 @@ params:
           - text: Instagram
             url: '#'
           - text: Dribbble
-            url: '#'
-    - list3:
-        heading: Network
-        link:
-          - text: Link One
-            url: '#'
-          - text: Link Two
-            url: '#'
-          - text: Link Three
             url: '#'
   shareImage: images/social.jpg
   twitterHandle: onepagelove
