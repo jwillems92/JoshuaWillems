@@ -1,0 +1,58 @@
+baseURL: https://example.com
+languageCode: en-US
+title: Split - HTML Template Demo
+theme: hugo-split-theme
+disableKinds:
+  - section
+  - taxonomy
+  - taxonomyTerm
+  - RSS
+  - sitemap
+relativeURLs: yes
+uglyURLs: yes
+googleAnalytics: ''
+copyright: '&copy;2021 Your Name'
+params:
+  author: Jenny Jones
+  description: Split is a centrally-divided layout for a professional online presence
+    with a big image or video left with alongside content.
+  favicon: favicon.ico
+  links:
+    - list1:
+        heading: Connect
+        link:
+          - text: Blog
+            url: '#'
+          - text: Email
+            url: '#'
+          - text: Newsletter
+            url: '#'
+    - list2:
+        heading: Social
+        link:
+          - text: Twitter
+            url: '#'
+          - text: Instagram
+            url: '#'
+          - text: Dribbble
+            url: '#'
+    - list3:
+        heading: Network
+        link:
+          - text: Link One
+            url: '#'
+          - text: Link Two
+            url: '#'
+          - text: Link Three
+            url: '#'
+  shareImage: images/social.jpg
+  twitterHandle: onepagelove
+  visual:
+    image:
+      enable: yes
+      file: images/background.jpg
+      position: center center
+    video:
+      enable: no
+      file: videos/background.mp4
+      mute: yes
