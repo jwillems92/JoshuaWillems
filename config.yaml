@@ -20,11 +20,9 @@ params:
     - list1:
         heading: Pages
         link:
-          - text: Blog
+          - text: Research
             url: '#'
-          - text: Email
-            url: '#'
-          - text: Newsletter
+          - text: CV
             url: '#'
     - list2:
         heading: Social
@@ -33,6 +31,8 @@ params:
             url: 'https://twitter.com/JoshuaWillems2'
           - text: Google Scholar
             url: 'https://scholar.google.com/citations?user=mX4XW5MAAAAJ&hl=en'
+          - text: GitHub
+            url: 'https://github.com/jwillems92'
   shareImage: images/social.jpg
   twitterHandle: onepagelove
   visual:
