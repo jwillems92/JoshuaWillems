@@ -21,9 +21,9 @@ params:
         heading: Pages
         link:
           - text: Research
-            url: '#'
+            url: 'ipsum-in.md'
           - text: CV
-            url: '#'
+            url: 'luctus-uma.md'
     - list2:
         heading: Social
         link:
