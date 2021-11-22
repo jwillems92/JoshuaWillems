@@ -21,7 +21,7 @@ params:
         heading: Pages
         link:
           - text: Blog
-            url: {{< ref "luctus-urna.md" >}}
+            url: '#''
           - text: Email
             url: '#'
           - text: Newsletter
@@ -40,7 +40,7 @@ params:
   visual:
     image:
       enable: yes
-      file: images/IMGP4123.jpg
+      file: images/Photo1.jpg
       position: center center
     video:
       enable: no
