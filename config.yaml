@@ -21,7 +21,7 @@ params:
         heading: Pages
         link:
           - text: Blog
-            url: '#''
+            url: '#'
           - text: Email
             url: '#'
           - text: Newsletter
@@ -30,11 +30,9 @@ params:
         heading: Social
         link:
           - text: Twitter
-            url: '#'
-          - text: Instagram
-            url: '#'
-          - text: Dribbble
-            url: '#'
+            url: 'https://twitter.com/JoshuaWillems2'
+          - text: Google Scholar
+            url: 'https://scholar.google.com/citations?user=mX4XW5MAAAAJ&hl=en'
   shareImage: images/social.jpg
   twitterHandle: onepagelove
   visual:
