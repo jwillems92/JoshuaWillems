@@ -21,7 +21,7 @@ params:
         heading: Pages
         link:
           - text: Research
-            url: 'ipsum-in.md'
+            url: 'C:\Users\jswil\Documents\R\Website\content\ipsum-in.md'
           - text: CV
             url: 'luctus-uma.md'
     - list2:
