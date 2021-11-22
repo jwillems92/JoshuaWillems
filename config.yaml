@@ -1,6 +1,6 @@
 baseURL: https://joshuawillems.netlify.app/
 languageCode: en-US
-title: Split - HTML Template Demo
+title: Joshua Willems
 theme: hugo-split-theme
 disableKinds:
   - section
